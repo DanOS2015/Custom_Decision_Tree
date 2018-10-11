@@ -1,2 +1,2 @@
 # Custom_Decision_Tree
-This is a custom decision tree algorithm I made in Python to help me better understand machine learning. This is a classification algorithm that uses a gini index criterion. It uses a HR Analytics dataset and it tries to predict employee turnover. 
+This is a custom decision tree algorithm I made in Python to help me better understand machine learning. This is a classification algorithm that uses a gini index criterion. It uses a HR Analytics dataset and it tries to predict employee turnover. It outputs the algorithms prediction accuracy, as well as what it predicted for each input in the test set and what the actually value was.
